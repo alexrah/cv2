@@ -5,3 +5,5 @@ tmp/**
 dist
 netmag_files
 netmag.html
+remotes.sh
+bower_components/
